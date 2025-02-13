@@ -1,7 +1,7 @@
 // Sound file paths (now using .wav format)
 const sounds = {
     sound1: new Audio('match_start.wav'),
-    sound2: new Audio('sounds/sound2.wav'),
+    sound2: new Audio('ENDMATCH.mp3'),
     sound3: new Audio('sounds/sound3.wav'),
     sound4: new Audio('sounds/sound4.wav'),
     sound5: new Audio('sounds/sound5.wav'),
