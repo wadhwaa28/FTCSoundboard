@@ -2,7 +2,7 @@
 const sounds = {
     sound1: new Audio('match_start.wav'),
     sound2: new Audio('ENDMATCH.mp3'),
-    sound3: new Audio('sounds/sound3.wav'),
+    sound3: new Audio('video.wav'),
     sound4: new Audio('sounds/sound4.wav'),
     sound5: new Audio('sounds/sound5.wav'),
 };
